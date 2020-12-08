@@ -1,0 +1,21 @@
+{
+  "name": "workshop3",
+  "version": "0.1.0",
+  "description": "node.js project eam",
+  "main": "app.js",
+  "scripts": {
+  "start": "node app.js"
+
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "js",
+    "backend"
+  ],
+  "author": "david bañol",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
